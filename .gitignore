@@ -4,6 +4,7 @@
 
 # Xcode
 #
+Pods/CocoaPodsKeys
 build/
 *.pbxuser
 !default.pbxuser
